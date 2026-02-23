@@ -155,6 +155,66 @@
       <!-- end Formal Teaching -->
       {% endif %}
 
+      {% if site.resume_section_informal_teaching %}
+      <!-- begin Informal Teaching -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Informal Teaching</h2>
+        </header>
+
+        {% for job in site.data.informal_teaching %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Informal Teaching -->
+      {% endif %}
+
+      {% if site.resume_section_mentoring %}
+      <!-- begin Mentoring -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Mentoring</h2>
+        </header>
+
+        {% for job in site.data.mentoring %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Mentoring -->
+      {% endif %}
+
+      {% if site.resume_section_volunteering %}
+      <!-- begin Volunteering -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Community, Public Service, and Organizational Memberships</h2>
+        </header>
+
+        {% for job in site.data.volunteering %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Volunteering -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
