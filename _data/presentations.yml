@@ -1,4 +1,4 @@
-- name: The Atlas at ~1%: Leveraging ~270,000 variant effect measurements in 41 disease genes to resolve VUS 
+- name: "The Atlas at ~1%: Leveraging ~270,000 variant effect measurements in 41 disease genes to resolve VUS"
   type: Poster presentation 
   authors: <b>Tejura, M.</b>, & IGVF Coding Variant Focus Group
   location: Mutational Scanning Symposium, Barcelona, Spain.
@@ -16,13 +16,13 @@
   location: NIH, Washington, DC, United States.
   date: February 27, 2025
 
-- name: Resolving uncertainty: Leveraging experimental and computational variant effect data for clinical variant reclassification 
+- name: "Resolving uncertainty: Leveraging experimental and computational variant effect data for clinical variant reclassification"
   type: Poster presentation 
   authors: <b>Tejura, M.</b>, & IGVF Coding Variant Focus Group
   location: IGVF Conference, Seattle, WA, United States.
   date: September 24, 2024
 
-- name: Translating lab data to clinical insights: A focus on clinical variant interpretation
+- name: "Translating lab data to clinical insights: A focus on clinical variant interpretation"
   type: Conference presentation 
   authors: <b>Tejura, M.</b>
   location: Careers in Genome Sciences Symposium, Seattle, WA, United States.
