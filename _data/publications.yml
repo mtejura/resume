@@ -3,4 +3,25 @@
   date: July 21, 2025
   url: https://doi.org/10.1038/s41576-025-00870-x
   journal: Nature Reviews Genetics
-  pmid: 40691352
+  ids: PMID 40691352
+
+- name: Gene-based calibration of high-throughput functional assays for clinical variant classification
+  authors: Zeiberg, D., <b>Tejura, M.</b>, McEwen, A. E., Fayer, S., Pejaver, V., Rubin, A. F., Starita, L. M., Fowler, D. M., O’Donnell-Luria, A., & Radivojac, P.
+  date: May 4, 2025
+  url: https://doi.org/10.1101/2025.04.29.651326
+  journal: bioRxiv
+  ids: PMID 40654914
+
+- name: Calibration of variant effect predictors on genome-wide data masks heterogeneous performance across genes
+  authors: <b>Tejura M</b>, Fayer S, McEwen AE, Flynn J, Starita LM, Fowler DM
+  date: September 5, 2024
+  url: https://doi.org/10.1016/j.ajhg.2024.07.018
+  journal: American Journal of Human Genetics (AJHG)
+  ids: PMID 39173626 &bull; PMCID PMC11393694.
+
+- name: DDX3 depletion represses translation of mRNAs with complex 5' UTRs
+  authors: Calviello L, Venkataramanan S, Rogowski KJ, Wyler E, Wilkins K, <b>Tejura M</b>, Thai B, Krol J, Filipowicz W, Landthaler M, Floor SN
+  date: May 21, 2021
+  url: https://doi.org/10.1093/nar/gkab287
+  journal: Nucleic Acids Research
+  ids: PMID 33905506 &bull; PMCID PMC8136831.
