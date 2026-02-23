@@ -115,6 +115,26 @@
       <!-- end Publications -->
       {% endif %}
 
+      {% if site.resume_section_presentations %}
+      <!-- begin Presentations -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Presentations</h2>
+        </header>
+
+        {% for presentation in site.data.presentations %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name">{{ presentation.name }} &bull; {{ presentation.type }}</h3>
+          <p class="resume-item-details" itemprop="description">{{ presentation.authors }}</p>
+          <p class="resume-item-copy">{{ presentation.location }} &bull; {{ presentation.date }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
