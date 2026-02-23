@@ -37,6 +37,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_publications:    true
 resume_section_presentations:   true
+resume_section_formal_teaching: true
 # resume_section_projects:        true
 # resume_section_skills:          true
 # resume_section_recognition:     true
