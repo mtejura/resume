@@ -51,7 +51,7 @@ resume_section_links:             true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://mtejura.github.io/resume/"
+  resume_github_url:            "https://github.com/mtejura"
   # resume_twitter_url:           ""
   # resume_dribbble_url:          ""
   # resume_facebook_url:          ""
