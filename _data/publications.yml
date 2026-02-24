@@ -1,48 +1,48 @@
 - name: A scalable approach to resolving variants of uncertain significance
   authors: <b>Tejura M</b>, Chen Y, McEwen AE, Stewart R, Sverchkov Y, Laval F, et al
-  date: February 14, 2026
+  date: Feb 14, 2026
   url: "https://doi.org/10.64898/2026.02.14.705848"
   journal: bioRxiv
   ids: PMID 41727046 &bull; PMCID PMC12918978
 
 - name: An integrated, scaled approach to resolve TSC2 variants of uncertain significance
   authors: Biar CG, Wang ZR, Camp ND, Holmes DL, Wheelock MK, Pendyala S, McGee AV, Gupta P, McEwen AE, <b>Tejura M</b>, et al
-  date: January 16, 2026
+  date: Jan 16, 2026
   url: "https://doi.org/10.64898/2026.01.16.699909"
   journal: bioRxiv
   ids: PMID 41648336 &bull; PMCID PMC12871146
 
 - name: "MaveMD: A functional data resource for genomic medicine"
   authors: McEwen AE, Stone J, <b>Tejura M</b>, Gupta P, Capodanno BJ, Da EY, et al
-  date: November 15, 2025
+  date: Nov 15, 2025
   url: "https://doi.org/10.1101/2025.11.15.25336228"
   journal: bioRxiv
   ids: PMID 41332838 &bull; PMCID PMC12668102
 
 - name: "Saturation genome editing of BARD1 resolves VUS and provides insight into BRCA1-BARD1 tumor suppression"
   authors: Woo I, Casadei S, Snyder MW, Smith NT, Best S, <b>Tejura M</b>, et al
-  date: November 3, 2025
+  date: Nov 3, 2025
   url: "https://doi.org/10.1101/2025.11.03.25339440"
   journal: bioRxiv
   ids: PMID 41282735 &bull; PMCID PMC12637766
 
 - name: Multiplexed assays of variant effect for clinical variant interpretation
   authors: McEwen AE, <b>Tejura M</b>, Fayer S, Starita LM, Fowler DM
-  date: July 21, 2025
+  date: Jul 21, 2025
   url: "https://doi.org/10.1038/s41576-025-00870-x"
   journal: Nature Reviews Genetics
   ids: PMID 40691352
 
 - name: Gene-based calibration of high-throughput functional assays for clinical variant classification
   authors: Zeiberg D, Stewart R, Jain S, <b>Tejura M</b>, McEwen AE, Fayer S, et al
-  date: April 29, 2025
+  date: Apr 29, 2025
   url: "https://doi.org/10.1101/2025.04.29.651326"
   journal: bioRxiv
   ids: PMID 40654914
 
 - name: Calibration of variant effect predictors on genome-wide data masks heterogeneous performance across genes
   authors: <b>Tejura M</b>, Fayer S, McEwen AE, Flynn J, Starita LM, Fowler DM
-  date: September 5, 2024
+  date: Sept 5, 2024
   url: "https://doi.org/10.1016/j.ajhg.2024.07.018"
   journal: American Journal of Human Genetics (AJHG)
   ids: PMID 39173626 &bull; PMCID PMC11393694.
