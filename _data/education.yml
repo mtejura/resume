@@ -3,9 +3,9 @@
   uni: University of Washington, Seattle
   year: Jan, 2026
 
-- degree: M.S, Genome Sciences
-  uni: University of Washington, Seattle
-  year: Jun, 2023
+#- degree: M.S, Genome Sciences
+  #uni: University of Washington, Seattle
+  #year: Jun, 2023
 
 - degree: B.A, Molecular and Cell Biology
   uni: University of California, Berkeley
