@@ -1,35 +1,35 @@
 - company: Genome Sciences Department, University of Washington, Seattle
-  position: PhD Candidate, Fowler and Starita Lab (entered Jun 2022)
+  position: Ph.D. Candidate, Fowler and Starita Labs
   duration: Sept, 2021 &mdash; Present
-  summary: Evaluated and benchmarked machine learning models (EVE, REVEL, AlphaMissense, SIFT) for variant pathogenicity prediction, assessing model performance and calibration in the context of clinical variant interpretation. <br/><br/>Integrated large-scale genomic and functional datasets with machine learning model outputs to improve classification of variants of uncertain significance and support evidence-based variant reclassification. <br/><br/><i>Skills developed - Advanced proficiency in Python and R for data analysis and visualization; experience with model evaluation, data preprocessing, and feature integration for ML applications in genomics; strong domain expertise in clinical genetics and variant effect modeling.</i>
+  summary: Evaluated and benchmarked machine learning models (EVE, REVEL, AlphaMissense, SIFT) for variant pathogenicity prediction, assessing model performance and calibration for clinical variant interpretation. Developed scalable pipelines to integrate functional assay data and predictive scores from MLMs (REVEL, AlphaMissense, MutPred2) for variant classification models. <br/><br/>Integrated large-scale genomic and functional datasets with machine learning model outputs to improve classification of variants of uncertain significance. <br/><br/><i>Skills developed - Advanced proficiency in Python and R for data analysis and visualization; experience with model evaluation, data preprocessing, and feature integration for ML applications in genomics; strong domain expertise in clinical genetics and variant effect modeling.</i>
 
 - company: Handshake AI
   position: MOVE Fellow, Biology Expert
-  duration: Sept, 2025 &mdash; Nov, 2025
+  duration: Sept, 2025 &mdash; Present
   summary: Evaluated LLM reasoning and factual reliability in biology through systematic red teaming and model-failure analysis. Created adversarial and diagnostic prompts that revealed weaknesses in model understanding of biological concepts. <br/><br/><i>Skills developed - Experience in red teaming and adversarial prompt generation to assess LLM safety and reasoning performance. Improved ability to diagnose model failure modes, interpret outputs, and communicate domain-specific weaknesses. Gained insight into AI safety evaluation frameworks and model reliability  for biological knowledge domains.</i>
 
 - company: Maze Therapeutics
   position: Senior Research Associate, Functional Genomics 
   duration: Nov, 2020  &mdash; Jul, 2021
-  summary: Cloned PiggyBac constructs to generate iPSC lines stably expressing Cas9, dCas9-KRAB, and dCas9-VP64, and developed additional lines with a degron-inducible CRISPRa system to enable controlled gene activation. Supported CRISPR screens by producing lentiviral vectors expressing proteins of interest, and designed and conducted qPCR assays to validate efficient target knockdown. Worked with neuronal cultures to evaluate neurite outgrowth and mRNA expression following targeted gene perturbations. <br/><br/><i>Skills developed - qPCR design and analysis, flow cytometry, fluorescence microscopy, lentivirus production, molecular biology techniques</i>
+  summary: Engineered CRISPR-based gene perturbation systems in iPSCs, including stable Cas9, CRISPRi (dCas9-KRAB), CRISPRa (dCas9-VP64), and degron-inducible activation platforms, enabling precise and tunable control of gene expression. Built and deployed lentiviral constructs to support pooled CRISPR screens, and validated perturbation efficiency using qPCR-based assays. Evaluated functional consequences of gene perturbations in neuronal models, quantifying neurite outgrowth and transcriptional changes to link genotype to phenotype. <br/><br/><i>Skills developed - qPCR design and analysis, flow cytometry, fluorescence microscopy, lentivirus production, molecular biology techniques</i>
 
 - company: Ultima Genomics
-  position: Senior Research Associate, Chemistry R&D
-  duration: Jan, 2020  &mdash; Nov, 2021
-  summary: Supported optimization and development of the ePCR (emulsion PCR) platform. In particular, identified and resolved nucleic acid interactions on beads that interfere with the correct amplification of libraries. Worked with patterned wafers and solid phase core beads in conjunction with fluorescence microscopy to delineate bead-bead interactions. <br/><br/><i>Skills developed - Flow cytometry, fluorescence microscopy, buffer chemistry, library preparation, DNA amplification, qPCR.</i>
+  position: Research Associate -> Senior Research Associate, Chemistry R&D
+  duration: May, 2019  &mdash; Nov, 2021
+  summary: Led efforts to identify and resolve nucleic acid–mediated solid core bead interactions that interfered with library amplification, improving assay robustness and reproducibility. Designed and optimized buffer conditions and reagent systems for stable ePCR performance, and leveraged fluorescence microscopy and flow cytometry to characterize bead behavior on patterned wafers. <br/><br/><i>Skills developed - Flow cytometry, fluorescence microscopy, buffer chemistry, library preparation, DNA amplification, qPCR.</i>
 
-- company: Ultima Genomics
-  position: Research Associate, Chemistry R&D
-  duration: May, 2019  &mdash; Dec, 2019
-  summary: Support optimization and development of ePCR to amplify libraries. In particular, investigate and develop optimal buffer conditions and reagents for stable and reproducible assay results. <br/><br/><i>Skills developed - Flow cytometry, fluorescence microscopy, buffer chemistry, DNA amplification.</i>
+#- company: Ultima Genomics
+  #position: Research Associate, Chemistry R&D
+  #duration: May, 2019  &mdash; Dec, 2019
+  #summary: Support optimization and development of ePCR to amplify libraries. In particular, investigate and develop optimal buffer conditions and reagents for stable and reproducible assay results. <br/><br/><i>Skills developed - Flow cytometry, fluorescence microscopy, buffer chemistry, DNA amplification.</i>
 
 - company: University of California, San Francisco
   position: Jr. Specialist, Cell and Tissue Biology at Dr. Stephen Floor's Lab
-  duration: Sept, 2018  &mdash; May, 2019
-  summary: Make cell lines with commonly occurring point mutations in the RNA helicase DDX3X. Use these cell lines to investigate the presence of a phenotype, stress granules, and compare it to WT DDX3X cell lines. In parallel, correct these mutations in patient-derived iPSCs to compare and contrast WT vs. mutant cell line neurogenesis. <br/><br/><i>Skills developed - CRISPR/Cas9 system optimization, designing sgRNAs, HDR templates, and primers, nucleofection techniques, cell culture work with N2A cells and iPSCs, western blots, ribosome profiling, immunofluorescence microscopy, FACS.</i>
+  duration: Jun, 2017  &mdash; May, 2019
+  summary: Investigated the functional impact of recurrent mutations in the RNA helicase DDX3X across engineered and patient-derived systems. Generated and characterized mutant cell line models using CRISPR/Cas9, introducing disease-relevant point mutations and correcting variants in patient-derived iPSCs to enable direct comparison of wild-type and mutant neurogenesis. Assessed phenotypic consequences, including stress granule formation and translational effects, using imaging and molecular assays. Earlier work focused on constructing plasmid-based reporter systems to study DDX3X-mediated resolution of 5'UTR secondary structures and its role in translation initiation. <br/><br/><i>Skills developed - CRISPR/Cas9 system optimization, designing sgRNAs, HDR templates, and primers, nucleofection techniques, cell culture work with N2A cells and iPSCs, western blots, ribosome profiling, immunofluorescence microscopy, FACS, RT-PCR, Gibson assembly, bacterial transformation, cell transfection, 5'RLM RACE.</i>
 
-- company: University of California, San Francisco
-  position: Lab Assistant I, Cell and Tissue Biology at Dr. Stephen Floor's Lab
-  duration: Jun, 2017  &mdash; May, 2018
-  summary: Creating plasmids to be used in a reporter assay that illuminates the capability of DDX3 in resolving secondary structures in 5'UTRs of mRNA and initiating translation. <br/><br/><i>Skills developed - Primer design, RT-PCR, Gibson assembly, bacterial transformation, cell transfection, 5'RLM RACE</i>
+#- company: University of California, San Francisco
+  #position: Lab Assistant I, Cell and Tissue Biology at Dr. Stephen Floor's Lab
+  #duration: Jun, 2017  &mdash; May, 2018
+  #summary: Creating plasmids to be used in a reporter assay that illuminates the capability of DDX3 in resolving secondary structures in 5'UTRs of mRNA and initiating translation. <br/><br/><i>Skills developed - Primer design, RT-PCR, Gibson assembly, bacterial transformation, cell transfection, 5'RLM RACE</i>
 
