@@ -1,5 +1,5 @@
 # Site settings
-title: "Dr. Malvika Tejura - Resume"
+title: "Malvika Tejura, Ph.D. - Resume"
 description: "Resume for Dr. Malvika Tejura"
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Malvika Tejura (PhD)"
-resume_title:                   "PhD in Genome Sciences"
+resume_name:                    "Malvika Tejura, Ph.D."
+resume_title:                   "PhD in Genome Sciences, University of Washington"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "malvika.tejura20@gmail.com"
