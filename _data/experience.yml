@@ -1,9 +1,9 @@
 - company: Genome Sciences Department, University of Washington, Seattle
   position: Ph.D. Candidate, Fowler and Starita Labs
   duration: Sept, 2021 &mdash; Present
-  summary: Architected an end-to-end variant classification framework from raw genomic data to clinically actionable outputs. Directed cross-institutional strategy and execution across 15+ labs, coordinating data integration, analysis, and ML model outputs for large-scale variant classification
-Designed and deployed a first-of-its-kind scalable pipeline integrating functional assay data with ML models (AlphaMissense, REVEL, MutPred2) to resolve uncertainty in genetic test results
-Benchmarked and stress-tested ML models for clinical variant classification, identifying failure modes and calibration gaps that shaped downstream efforts
+  summary: Architected an end-to-end variant classification framework from raw genomic data to clinically actionable outputs. Directed cross-institutional strategy and execution across 15+ labs, coordinating data integration, analysis, and ML model outputs for large-scale variant classification. 
+  Designed and deployed a first-of-its-kind scalable pipeline integrating functional assay data with ML models (AlphaMissense, REVEL, MutPred2) to resolve uncertainty in genetic test results. 
+  Benchmarked and stress-tested ML models for clinical variant classification, identifying failure modes and calibration gaps that shaped downstream efforts
 - company: Handshake AI
   position: MOVE Fellow, Biology Expert
   duration: Sept, 2025 &mdash; Present
