@@ -1,8 +1,9 @@
 - company: Genome Sciences Department, University of Washington, Seattle
   position: Ph.D. Candidate, Fowler and Starita Labs
   duration: Sept, 2021 &mdash; Present
-  summary: Evaluated and benchmarked machine learning models (EVE, REVEL, AlphaMissense, SIFT) for variant pathogenicity prediction, assessing model performance and calibration for clinical variant interpretation. Developed scalable pipelines to integrate functional assay data and predictive scores from MLMs (REVEL, AlphaMissense, MutPred2) for variant classification models. <br/><br/>Integrated large-scale genomic and functional datasets with machine learning model outputs to improve classification of variants of uncertain significance. <br/><br/><i>Skills developed - Advanced proficiency in Python and R for data analysis and visualization; experience with model evaluation, data preprocessing, and feature integration for ML applications in genomics; strong domain expertise in clinical genetics and variant effect modeling.</i>
-
+  summary: Architected an end-to-end variant classification framework from raw genomic data to clinically actionable outputs. Directed cross-institutional strategy and execution across 15+ labs, coordinating data integration, analysis, and ML model outputs for large-scale variant classification
+Designed and deployed a first-of-its-kind scalable pipeline integrating functional assay data with ML models (AlphaMissense, REVEL, MutPred2) to resolve uncertainty in genetic test results
+Benchmarked and stress-tested ML models for clinical variant classification, identifying failure modes and calibration gaps that shaped downstream efforts
 - company: Handshake AI
   position: MOVE Fellow, Biology Expert
   duration: Sept, 2025 &mdash; Present
